@@ -1,0 +1,17 @@
+# Unity3D .gitignore file.
+#	 Store this file at the root of your local repository.
+.DS_Store
+Pinball/Library/AssetImportState
+Pinball/Library/AssetServerCacheV3
+Pinball/Library/FailedAssetImports.txt
+Pinball/Library/ScriptAssemblies
+Pinball/Library/ScriptMapper
+Pinball/Library/assetDatabase3
+Pinball/Library/cache
+Pinball/Library/expandedItems
+Pinball/Library/metadata
+Pinball/Library/previews
+Pinball/Library/guidmapper
+Pinball/Temp
+*.pidb
+build
